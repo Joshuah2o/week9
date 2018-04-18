@@ -1,9 +1,9 @@
 # Week-9
 
 ## Attack Report <br> <img src='https://github.com/Joshuah2o/week9/blob/master/Attack%20Report.JPG' title=' Attack Report' width='' />
-## Payload Report <br> <img src='Payload Report.jpg' title=' Payload Report' width=''  />
-## Sensors <br> <img src='Sensors.jpg' title=' Sensors' width='' />
-## nmap 35.202.65.42 <br> <img src='nmap 35.202.65.42.jpg' title=' nmap' width='' />
+## Payload Report <br> <img src='https://github.com/Joshuah2o/week9/blob/master/Payload%20Report.JPG' title=' Payload Report' width=''  />
+## Sensors <br> <img src='https://github.com/Joshuah2o/week9/blob/master/Sensors.JPG' title=' Sensors' width='' />
+## nmap 35.202.65.42 <br> <img src='https://github.com/Joshuah2o/week9/blob/master/nmap%2035.202.65.42.JPG' title=' nmap' width='' />
 
 ## Information:
 * Pots were setup and ran on 4-16 until 4-18.
@@ -37,3 +37,6 @@
   * p0f 
 * Data collected:
   * Number of attacks: 936
+  
+  ## Summary
+  * This honeypot exercise was intutive and challenging. Honeypotting is a computer security mechanism set to detect, deflect, or, in some manner, counteract attempts at unauthorized use of information systems. Generally, a honeypot consists of data, for example, in a network site, that appears to be a legitimate part of the site, but is actually isolated and monitored, and that seems to contain information or a resource of value to attackers, who are then blocked. Utilizing and understanding the different types of attackes was also entertainging to learn about for this project. Implementing these made this assignment feel closer to what I would experience in the real world. 
